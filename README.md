@@ -71,6 +71,7 @@ To create a 3Dmodel from the given isometric drawing using fusion 360 tool.
 ![image](https://user-images.githubusercontent.com/113594316/198495472-9a69edb1-f0c6-470c-b9ae-fe282fa6a678.png)
 
 ## OUTPUT
+![WhatsApp Image 2025-10-27 at 21 51 28_18e13141](https://github.com/user-attachments/assets/f2500e39-5476-49a1-9719-39f3ea3cafbb)
 
 ## RESULT: 
  Thus, the 3D model is created from given isometric drawing.
